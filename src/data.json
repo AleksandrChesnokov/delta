@@ -1,0 +1,65 @@
+{
+  "columns": ["Показатель", "Текущий день", "Вчера", "Этот день недели"],
+  "rows": [
+    {
+      "metric": "Выручка",
+      "currentDay": 500521,
+      "yesterday": 480521,
+      "thisDayOfWeek": 4805121
+    },
+    {
+      "metric": "Наличные",
+      "currentDay": 300000,
+      "yesterday": 300000,
+      "thisDayOfWeek": 300000
+    },
+    {
+      "metric": "Безналичный расчет",
+      "currentDay": 100000,
+      "yesterday": 100000,
+      "thisDayOfWeek": 100000
+    },
+    {
+      "metric": "Кредитные карты",
+      "currentDay": 100521,
+      "yesterday": 100521,
+      "thisDayOfWeek": 100521
+    },
+    {
+      "metric": "Средний чек, руб",
+      "currentDay": 1300,
+      "yesterday": 900,
+      "thisDayOfWeek": 900
+    },
+    {
+      "metric": "Средний гость, руб",
+      "currentDay": 1200,
+      "yesterday": 800,
+      "thisDayOfWeek": 800
+    },
+    {
+      "metric": "Удаление из чека (после оплаты), руб",
+      "currentDay": 1000,
+      "yesterday": 1100,
+      "thisDayOfWeek": 900
+    },
+    {
+      "metric": "Удаление из чека (до оплаты), руб",
+      "currentDay": 1300,
+      "yesterday": 1300,
+      "thisDayOfWeek": 900
+    },
+    {
+      "metric": "Количество чеков",
+      "currentDay": 34,
+      "yesterday": 36,
+      "thisDayOfWeek": 34
+    },
+    {
+      "metric": "Количество гостей",
+      "currentDay": 34,
+      "yesterday": 36,
+      "thisDayOfWeek": 32
+    }
+  ]
+}
